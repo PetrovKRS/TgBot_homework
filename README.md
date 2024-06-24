@@ -45,4 +45,16 @@
     python3 homework.py
     ```
 
-Стек технологий: |*| python-telegram-bot 13.7 |*| python-dotenv 0.19.0 |*| flake8 |*|
+
+***
+
+### <b> Стек технологий: </b>
+
+![Python](https://img.shields.io/badge/-Python_3.9-df?style=for-the-badge&logo=Python&labelColor=yellow&color=blue)
+![Python Telegram bot](https://img.shields.io/badge/-Python_Telegram_bot-df?style=for-the-badge&logo=Telegram&labelColor=black&color=blue)
+![DOTENV](https://img.shields.io/badge/-DotEnv-df?style=for-the-badge&logo=dotenv&labelColor=black&color=blue)
+![GitHub](https://img.shields.io/badge/-GitHub-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)
+***
+### Автор проекта: 
+[![GitHub](https://img.shields.io/badge/-Андрей_Петров-df?style=for-the-badge&logo=GitHub&labelColor=black&color=blue)](https://github.com/PetrovKRS)
+***
